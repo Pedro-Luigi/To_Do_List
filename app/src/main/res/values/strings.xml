@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="adicionando_tarefa">Botão para adicionar uma nova tarefa</string>
+    <string name="criar_tarefa">Criar Tarefa</string>
+    <string name="titulo">Título</string>
+    <string name="descricao">Descrição</string>
+    <string name="hora">Hora</string>
+    <string name="data">Data</string>
+    <string name="criar_tarefa_botao">Confirmar</string>
+    <string name="botao_de_criar_contato">Botão para criar contato</string>
+    <string name="insira_uma_hora">Insira uma hora</string>
+    <string name="insira_uma_data">Insira uma data</string>
+    <string name="insira_uma_descricao">Insira uma descrição</string>
+    <string name="insira_um_titulo">Insira um título</string>
+    <string name="lembretes">Lembretes</string>
+    <string name="deletar">Deletar</string>
+    <string name="editar">Editar</string>
+    <string name="mensagem_sem_tarefa">Ops! Vocé não possui uma tarefa\n nenhuma tarefa.</string>
+    <string name="imagem_de_um_emoji_triste">Imagem de um emoji triste</string>
+    <string name="voc_n_o_possui_tarefas_no_momento">Você não possui tarefas no momento</string>
+</resources>
